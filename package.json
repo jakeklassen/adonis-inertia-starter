@@ -1,0 +1,13 @@
+{
+  "name": "adonis-inertia-starter",
+  "version": "1.0.0",
+  "description": "A modern full-stack starter template built with AdonisJS v6, Inertia.js, React 19, TypeScript, Tailwind CSS, and Shadcn UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.24.0"
+}
