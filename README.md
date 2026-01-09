@@ -26,9 +26,24 @@ A modern, type-safe full-stack starter template for building web applications.
 # Install dependencies
 pnpm install
 
+# Navigate to the platform package
+cd packages/platform
+
+# Copy environment file and generate app key
+cp .env.example .env
+node ace generate:key
+# Copy the output and set APP_KEY in .env
+
 # Setup database
 node ace migration:run
 
 # Start development server
 pnpm dev
+```
+
+## Running Tests
+
+```bash
+cd packages/platform
+pnpm test
 ```
