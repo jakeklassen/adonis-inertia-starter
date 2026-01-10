@@ -44,7 +44,7 @@
     "@tailwindcss/postcss": "^4.1.18",
     "@types/luxon": "^3.7.1",
     "@types/node": "^24.10.4",
-    "@types/react": "^19.2.7",
+    "@types/react": "^19.2.8",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.2",
     "autoprefixer": "^10.4.23",
@@ -62,7 +62,7 @@
   "dependencies": {
     "@adonisjs/ally": "^5.1.1",
     "@adonisjs/auth": "^9.4.0",
-    "@adonisjs/core": "^6.19.2",
+    "@adonisjs/core": "^6.19.3",
     "@adonisjs/cors": "^2.2.1",
     "@adonisjs/inertia": "^3.1.1",
     "@adonisjs/lucid": "^21.6.1",
