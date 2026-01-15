@@ -1,6 +1,3 @@
-/* eslint-disable @unicorn/filename-case */
-// This is used by shadcn
-
 import * as React from 'react';
 
 const MOBILE_BREAKPOINT = 768;
