@@ -6,7 +6,10 @@
     "baseUrl": ".",
     "paths": {
       "~/*": ["./inertia/*"]
-    }
+    },
+
+    // Stricter
+    "noUncheckedIndexedAccess": true
   },
   "exclude": ["./inertia/**/*", "node_modules", "build"]
 }
