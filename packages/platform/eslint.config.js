@@ -5,6 +5,7 @@ export default [
   ...configApp(),
   depend.configs['flat/recommended'],
   {
+    files: ['**/*.ts', '**/*.tsx'],
     rules: {
       '@typescript-eslint/no-non-null-assertion': 'error',
       curly: ['error', 'all'],
